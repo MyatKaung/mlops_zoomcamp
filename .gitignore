@@ -1,7 +1,7 @@
 # Data directories
-01_Introduction/Data/
-02_Experiment_Tracking/Data/
+/01_Introduction/Data/
+/02_Experiment_Tracking/Data/
 
 # MLflow artifacts
-02_Experiment_Tracking//mlruns/
-02_Experiment_Tracking//mlflow.db
+/02_Experiment_Tracking/mlruns/
+/02_Experiment_Tracking/mlflow.db
