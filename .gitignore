@@ -1,5 +1,5 @@
 # Data directories
-/01_Introduction/Data/
+/01_Intro/Data/
 /02_Experiment_Tracking/Data/
 
 # MLflow artifacts
