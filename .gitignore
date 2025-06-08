@@ -5,3 +5,10 @@
 # MLflow artifacts
 /02_Experiment_Tracking/mlruns/
 /02_Experiment_Tracking/mlflow.db
+
+
+
+/03-Orchestration/airflow_mlflow_homework/.env
+/03-Orchestration/airflow_mlflow_homework/mlflow_data
+/03-Orchestration/airflow_mlflow_homework/mlflow_store
+/03-Orchestration/airflow_mlflow_homework/mlruns
