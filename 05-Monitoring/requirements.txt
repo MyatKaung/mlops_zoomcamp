@@ -1,0 +1,14 @@
+# Core data processing
+pandas==2.3.0
+pyarrow==20.0.0
+
+# Monitoring and metrics
+evidently==0.4.29
+
+# Database connectivity
+psycopg2-binary==2.9.9
+
+# Dependencies for evidently
+pydantic==1.10.16
+scikit-learn==1.3.2
+numpy==1.26.4
