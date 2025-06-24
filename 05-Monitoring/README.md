@@ -71,6 +71,14 @@ The Grafana dashboard includes:
 - A stat panel showing the number of days with detected drift
 - A table showing the latest metrics
 
+## Screenshots
+
+### Grafana Dashboard
+![Grafana Dashboard](images/grafana.png)
+
+### PostgreSQL Database
+![PostgreSQL Database](images/postgres.png)
+
 ## Q3 and Q4 Answers
 
 ### Q3: Maximum Quantile Value
